@@ -1,3 +1,3 @@
 # scripts
 
-Basic and advanced scripts for mostly Windows services
+Basic and advanced scripts mostly for Windows services
