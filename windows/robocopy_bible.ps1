@@ -1,0 +1,1 @@
+robocopy "\\Source" "\\Target" /ZB /E /FFT /R:12 /W:5 /NP /MIR /MT:16 /COPYALL  /unilog:text.txt
